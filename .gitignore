@@ -1,0 +1,9 @@
+build/
+package/
+*.user
+*.sdf
+*.ipch
+.vs/
+*.7z
+*.zip
+release/
